@@ -17,7 +17,7 @@ Black Bold: 67, 96, 124
 Red: 192, 57, 43
 Red Bold: 231, 76, 60
 Green: 45, 175, 37
-Green Bold: 43,208, 47
+Green Bold: 129, 226, 52
 Yellow: 243, 156, 18
 Yellow Bold: 241, 196, 15
 Blue: 45, 73, 210
